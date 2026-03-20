@@ -1,6 +1,6 @@
----
+---/.github/workflows/ @oleavr
 title: Frida (Android)
-platform: android
+platform: Android phone 
 source: https://github.com/frida/frida
 ---
 
